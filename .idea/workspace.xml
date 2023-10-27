@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00ec152e-7298-4d95-b0b4-bde0392914ff" name="Changes" comment="relocated">
+    <list default="true" id="00ec152e-7298-4d95-b0b4-bde0392914ff" name="Changes" comment="module and package imported switch pending">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/modules/module0/control_structures/Conditional.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/module0/control_structures/Conditional.java" afterDir="false" />
@@ -23,6 +23,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Davidongo93"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="ded546aa-0b16-4f7c-893d-d9a643195a00" />
+        <option name="url" value="https://github.com/Davidongo93/UpskillJava.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 6
@@ -95,12 +109,29 @@
       <option name="project" value="LOCAL" />
       <updated>1698441524904</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="relocated">
+      <option name="closed" value="true" />
+      <created>1698442084636</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1698442084636</updated>
+    </task>
+    <task id="LOCAL-00005" summary="module and package imported switch pending">
+      <option name="closed" value="true" />
+      <created>1698442114279</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1698442114279</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="A unique repository 4 all course." />
     <MESSAGE value="relocated" />
-    <option name="LAST_COMMIT_MESSAGE" value="relocated" />
+    <MESSAGE value="module and package imported switch pending" />
+    <option name="LAST_COMMIT_MESSAGE" value="module and package imported switch pending" />
   </component>
 </project>

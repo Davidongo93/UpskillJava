@@ -9,7 +9,7 @@ public class Conditional{
             System.out.println("Escribiste un dos, sos un capo");
         };
     };
-    public void execTernary(){
+    public static void execTernary(){
         int number = 7;
         String result = (number % 2 == 0)
                 ? "Its pair"
