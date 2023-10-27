@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00ec152e-7298-4d95-b0b4-bde0392914ff" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UpskillJava.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modules/module0/control_structures/Conditional.java" afterDir="false" />
+    <list default="true" id="00ec152e-7298-4d95-b0b4-bde0392914ff" name="Changes" comment="relocated">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/module0/control_structures/Conditional.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/module0/control_structures/Conditional.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +70,29 @@
       <option name="presentableId" value="Default" />
       <updated>1698433111149</updated>
     </task>
+    <task id="LOCAL-00001" summary="A unique repository 4 all course.">
+      <option name="closed" value="true" />
+      <created>1698440903731</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698440903731</updated>
+    </task>
+    <task id="LOCAL-00002" summary="relocated">
+      <option name="closed" value="true" />
+      <created>1698440940230</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1698440940230</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="A unique repository 4 all course." />
+    <MESSAGE value="relocated" />
+    <option name="LAST_COMMIT_MESSAGE" value="relocated" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
