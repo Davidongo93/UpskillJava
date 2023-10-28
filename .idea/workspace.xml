@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00ec152e-7298-4d95-b0b4-bde0392914ff" name="Changes" comment="module and package imported switch pending">
+    <list default="true" id="00ec152e-7298-4d95-b0b4-bde0392914ff" name="Changes" comment="ternary module">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/modules/module0/control_structures/Conditional.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/module0/control_structures/Conditional.java" afterDir="false" />
@@ -125,13 +125,31 @@
       <option name="project" value="LOCAL" />
       <updated>1698442114279</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="ternary">
+      <option name="closed" value="true" />
+      <created>1698443453397</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1698443453397</updated>
+    </task>
+    <task id="LOCAL-00007" summary="ternary module">
+      <option name="closed" value="true" />
+      <created>1698451673164</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1698451673164</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="A unique repository 4 all course." />
     <MESSAGE value="relocated" />
     <MESSAGE value="module and package imported switch pending" />
-    <option name="LAST_COMMIT_MESSAGE" value="module and package imported switch pending" />
+    <MESSAGE value="ternary" />
+    <MESSAGE value="ternary module" />
+    <option name="LAST_COMMIT_MESSAGE" value="ternary module" />
   </component>
 </project>
