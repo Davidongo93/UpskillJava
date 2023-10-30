@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00ec152e-7298-4d95-b0b4-bde0392914ff" name="Changes" comment="delete module">
+    <list default="true" id="00ec152e-7298-4d95-b0b4-bde0392914ff" name="Changes" comment="polimorfismo y actualizacion de diagramas">
+      <change afterPath="$PROJECT_DIR$/src/modules/module1/homework/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modules/module1/homework/Piece.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modules/module1/homework/Rook.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modules/module1/classes_and_objects/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/module1/classes_and_objects/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modules/module1/classes_and_objects/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/module1/classes_and_objects/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modules/module1/classes_and_objects/PickUp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/module1/classes_and_objects/PickUp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -266,7 +266,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698695991237</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="polimorfismo y actualizacion de diagramas">
+      <option name="closed" value="true" />
+      <created>1698699587021</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1698699587021</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -296,6 +304,7 @@
     <MESSAGE value="inheritance example" />
     <MESSAGE value="Abstraction and polymorphism." />
     <MESSAGE value="delete module" />
-    <option name="LAST_COMMIT_MESSAGE" value="delete module" />
+    <MESSAGE value="polimorfismo y actualizacion de diagramas" />
+    <option name="LAST_COMMIT_MESSAGE" value="polimorfismo y actualizacion de diagramas" />
   </component>
 </project>
