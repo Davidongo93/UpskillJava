@@ -1,7 +1,7 @@
 package modules.module1.classes_and_objects;
 
 //creando una clase.
-public class Car {
+public abstract class Car {
     // las clases tiene metodos y propiedades, vamos a agregarlos.
     //las propiedades
     private String brand;
@@ -44,10 +44,12 @@ public class Car {
     public Car() {
 
     }
-// ejemplo de metodo para simular el acelerador.
-    public void trhottle(){
-        System.out.println("raaaaaan");
+    // vamos a sobrecargar el metodo
+    public Car(String brand) {
+this.brand = brand;
     }
+// ejemplo de metodo para simular el acelerador.
+    public  abstract void throttle();
 // simulacion de freno
     String brake(){
         return "Stop!!!";
