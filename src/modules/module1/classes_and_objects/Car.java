@@ -31,11 +31,11 @@ public class Car {
         return yearOfManufactured;
     }
 
-    public void setYearOfManufactured(int yearOfManufactured) {
+    public void setYearOfManufactured(Integer yearOfManufactured) {
         this.yearOfManufactured = yearOfManufactured;
     }
 // metodo de la clase completo.
-    public Car(String brand, String model, int yearOfManufactured) {
+    public Car(String brand, String model, Integer yearOfManufactured) {
         this.brand = brand;
         this.model = model;
         this.yearOfManufactured = yearOfManufactured;
