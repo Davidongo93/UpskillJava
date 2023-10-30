@@ -4,27 +4,24 @@ public class Main {
         // my cars
         SportCar sportCar1 = new SportCar();
 
-        //SportCar sportCar2 = new SportCar(true);
+        SportCar sportCar2 = new SportCar("audi","a8", 2001, true);
 
-        Car car1 = new Car();
-        Car car2 = new Car("shelby","cobra",1955);
-
+        //Car car1 = new Car();
+        //Car car2 = new Car("shelby","cobra",1955);
+PickUp pickUp1 = new PickUp("ford", "f150",2020,5);
         // smart outputs
 
         //extended class sportscar
         System.out.println("new super sport car:" + sportCar1.getBrand());
-        //empty constructor.
-        System.out.println("brand car 1: " + car1.getBrand() );
-        System.out.println("model car 1: " + car1.getModel() );
-        System.out.println("year car 1: " + car1.getYearOfManufactured() );
-        car1.trhottle();
-        // arguments
-        System.out.println("brand car 2: " + car2.getBrand() );
-        System.out.println("model car 2: " + car2.getModel() );
-        System.out.println("year car 2: " + car2.getYearOfManufactured() );
-        System.out.println("test brakes car 1: " + car2.brake());
-        car2.trhottle();
+      // car abstract and sportscar instanciated
+        System.out.println("super sport car builded:" + sportCar2.getModel());
+sportCar2.throttle();
 
+// the pickup
+        System.out.println("the new no instantiated car is a pickup brand:" + pickUp1.getBrand());
+        System.out.println("the new no instantiated car model:" + pickUp1.getBrand());
+        System.out.println("the new no instantiated car year:" + pickUp1.getYearOfManufactured());
+        pickUp1.throttle();
 
 
     }

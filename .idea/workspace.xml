@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00ec152e-7298-4d95-b0b4-bde0392914ff" name="Changes" comment="dont forget que commit comment">
-      <change afterPath="$PROJECT_DIR$/src/modules/module1/classes_and_objects/SportCar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="00ec152e-7298-4d95-b0b4-bde0392914ff" name="Changes" comment="inheritance example">
+      <change afterPath="$PROJECT_DIR$/src/modules/module1/classes_and_objects/PickUp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/modules/module1/classes_and_objects/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/module1/classes_and_objects/Car.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/modules/module1/classes_and_objects/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/module1/classes_and_objects/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/module1/classes_and_objects/SportCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/module1/classes_and_objects/SportCar.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -244,7 +244,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698631277157</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="inheritance example">
+      <option name="closed" value="true" />
+      <created>1698693638232</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1698693638232</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -271,6 +279,7 @@
     <MESSAGE value="Created module 1" />
     <MESSAGE value="Classes and objects." />
     <MESSAGE value="dont forget que commit comment" />
-    <option name="LAST_COMMIT_MESSAGE" value="dont forget que commit comment" />
+    <MESSAGE value="inheritance example" />
+    <option name="LAST_COMMIT_MESSAGE" value="inheritance example" />
   </component>
 </project>
