@@ -44,6 +44,10 @@ public abstract class Car {
     public Car() {
 
     }
+    // vamos a sobrecargar el metodo
+    public Car(String brand) {
+this.brand = brand;
+    }
 // ejemplo de metodo para simular el acelerador.
     public  abstract void throttle();
 // simulacion de freno

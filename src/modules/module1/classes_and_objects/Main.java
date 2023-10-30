@@ -6,9 +6,9 @@ public class Main {
 
         SportCar sportCar2 = new SportCar("audi","a8", 2001, true);
 
-        //Car car1 = new Car();
-        //Car car2 = new Car("shelby","cobra",1955);
-PickUp pickUp1 = new PickUp("ford", "f150",2020,5);
+        PickUp pickUp1 = new PickUp("ford", "f150",2020,5);
+
+        PickUp pickUp2 = new PickUp("Toyota");
         // smart outputs
 
         //extended class sportscar
