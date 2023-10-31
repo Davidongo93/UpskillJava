@@ -16,8 +16,10 @@ public class Main {
         String[][] calendario = new String[5][7];
         Iterators.main(args);
        modules.module1.classes_and_objects.Main.main(args);
-       //homework
+       //homework m1 c1
         modules.module1.homework.Main.main(args);
+        //homework m1c2 cicle area calculator
+        modules.module1.intermediateConcepts.Constants.circleArea();
     };
 
 };
