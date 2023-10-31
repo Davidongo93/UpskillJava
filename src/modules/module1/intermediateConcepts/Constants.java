@@ -14,5 +14,7 @@ public class Constants {
 
          double area = square * PI;
         System.out.print("the cicle area is: " + area);
+        System.out.print(" ");
+
     }
 }
