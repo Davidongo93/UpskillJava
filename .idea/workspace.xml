@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00ec152e-7298-4d95-b0b4-bde0392914ff" name="Changes" comment="Circle area">
-      <change afterPath="$PROJECT_DIR$/src/modules/module1/intermediateConcepts/StringOperations.java" afterDir="false" />
+    <list default="true" id="00ec152e-7298-4d95-b0b4-bde0392914ff" name="Changes" comment="string ops pending, and interfaces pending.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modules/module1/intermediateConcepts/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/module1/intermediateConcepts/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/module1/intermediateConcepts/StringOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/module1/intermediateConcepts/StringOperations.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -306,7 +304,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698786663700</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="string ops pending, and interfaces pending.">
+      <option name="closed" value="true" />
+      <created>1698789997621</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1698789997621</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -341,6 +347,7 @@
     <MESSAGE value="partially finished m1c1" />
     <MESSAGE value="first half m1" />
     <MESSAGE value="Circle area" />
-    <option name="LAST_COMMIT_MESSAGE" value="Circle area" />
+    <MESSAGE value="string ops pending, and interfaces pending." />
+    <option name="LAST_COMMIT_MESSAGE" value="string ops pending, and interfaces pending." />
   </component>
 </project>
