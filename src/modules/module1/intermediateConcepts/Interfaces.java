@@ -45,8 +45,10 @@ public class Interfaces {
          void compareTo();
 
         }
-        public abstract class Producto implements Comparable {
+        public static abstract class Producto implements Comparable<Producto> {
 
+@Override
+         public void compareTo(Producto){
 
 
             }
