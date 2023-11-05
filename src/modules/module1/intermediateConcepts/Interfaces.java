@@ -41,7 +41,21 @@ public class Interfaces {
             this.price = price;
             this.code = code;
         }
+       public interface Comparable<Producto> {
+         void compareTo();
+
+        }
+        public abstract class Producto implements Comparable {
+
+
+
+            }
+        }
+
     }
 
 
 }
+//public interface comparePrice = {
+//        compare<>
+//        }
