@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00ec152e-7298-4d95-b0b4-bde0392914ff" name="Changes" comment="Circle area">
-      <change afterPath="$PROJECT_DIR$/src/modules/module1/intermediateConcepts/StringOperations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modules/module1/intermediateConcepts/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/module1/intermediateConcepts/Constants.java" afterDir="false" />
-    </list>
+    <list default="true" id="00ec152e-7298-4d95-b0b4-bde0392914ff" name="Changes" comment="interfaces compare" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,7 +54,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;dave&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/upskillJava&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/moneyWise&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;D:/upskillJava/src/Main.java&quot;
   }
 }</component>
@@ -306,7 +301,47 @@
       <option name="project" value="LOCAL" />
       <updated>1698786663700</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="string ops pending, and interfaces pending.">
+      <option name="closed" value="true" />
+      <created>1698789997621</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1698789997621</updated>
+    </task>
+    <task id="LOCAL-00027" summary="finish string ops">
+      <option name="closed" value="true" />
+      <created>1698871068068</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1698871068068</updated>
+    </task>
+    <task id="LOCAL-00028" summary="interfaces exercise">
+      <option name="closed" value="true" />
+      <created>1698874387026</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1698874387026</updated>
+    </task>
+    <task id="LOCAL-00029" summary="interfaces Continue">
+      <option name="closed" value="true" />
+      <created>1699217092267</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1699217092267</updated>
+    </task>
+    <task id="LOCAL-00030" summary="interfaces compare">
+      <option name="closed" value="true" />
+      <created>1699228269748</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1699228269748</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -341,6 +376,11 @@
     <MESSAGE value="partially finished m1c1" />
     <MESSAGE value="first half m1" />
     <MESSAGE value="Circle area" />
-    <option name="LAST_COMMIT_MESSAGE" value="Circle area" />
+    <MESSAGE value="string ops pending, and interfaces pending." />
+    <MESSAGE value="finish string ops" />
+    <MESSAGE value="interfaces exercise" />
+    <MESSAGE value="interfaces Continue" />
+    <MESSAGE value="interfaces compare" />
+    <option name="LAST_COMMIT_MESSAGE" value="interfaces compare" />
   </component>
 </project>
