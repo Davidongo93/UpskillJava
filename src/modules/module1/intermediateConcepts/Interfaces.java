@@ -3,7 +3,7 @@ package modules.module1.intermediateConcepts;
 public class Interfaces {
 
 
-    public static class producto {
+    public static abstract class product implements Comparable<product> {
        private String name;
         private Double price;
         private String code;
@@ -32,32 +32,24 @@ public class Interfaces {
             this.code = code;
         }
 
-        public producto(String name) {
+        public product(String name) {
             this.name = name;
         }
 
-        public producto(String name, Double price, String code) {
+        public product(String name, Double price, String code) {
             this.name = name;
             this.price = price;
             this.code = code;
         }
-       public interface Comparable<Producto> {
-         void compareTo();
 
+
+        @Override
+        public int compareTo(product otherProduct) {
+            // decir si es mayor, menor o igual e indicar la diferencia entre el producto y el que se quiere comparar
+            Double diff = this.getPrice() + otherProduct.getPrice();
+            return Double.compare(this.getPrice(), otherProduct.getPrice());
         }
-        public static abstract class Producto implements Comparable<Producto> {
-
-@Override
-         public void compareTo(Producto){
-
-
-            }
-        }
-
     }
 
 
 }
-//public interface comparePrice = {
-//        compare<>
-//        }
