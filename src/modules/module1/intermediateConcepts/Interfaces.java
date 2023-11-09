@@ -44,10 +44,10 @@ public class Interfaces {
 
 
         @Override
-        public int compareTo(product o) {
+        public int compareTo(product otherProduct) {
             // decir si es mayor, menor o igual e indicar la diferencia entre el producto y el que se quiere comparar
             Double diff = this.getPrice() + otherProduct.getPrice();
-            return Double.compare(this.getPrice(), otroProducto.precio);
+            return Double.compare(this.getPrice(), otherProduct.getPrice());
         }
     }
 
