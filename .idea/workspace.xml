@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00ec152e-7298-4d95-b0b4-bde0392914ff" name="Changes" comment="interfaces compare">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_30_2023_4_43_PM_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_30_2023_4_43_PM__Changes_.xml" beforeDir="false" />
+    <list default="true" id="00ec152e-7298-4d95-b0b4-bde0392914ff" name="Changes" comment="m1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/modules/module1/intermediateConcepts/Interfaces.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/module1/intermediateConcepts/Interfaces.java" afterDir="false" />
     </list>
@@ -59,7 +57,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "dave",
-    "last_opened_file_path": "C:/Users/domir/Downloads/HW2/clase5-interfaces",
+    "last_opened_file_path": "D:/upskillJava",
     "onboarding.tips.debug.path": "D:/upskillJava/src/Main.java"
   }
 }]]></component>
@@ -354,7 +352,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699243028731</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="m1">
+      <option name="closed" value="true" />
+      <created>1699412375547</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1699412375547</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -369,7 +375,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="A unique repository 4 all course." />
     <MESSAGE value="relocated" />
     <MESSAGE value="module and package imported switch pending" />
     <MESSAGE value="ternary" />
@@ -394,6 +399,7 @@
     <MESSAGE value="interfaces exercise" />
     <MESSAGE value="interfaces Continue" />
     <MESSAGE value="interfaces compare" />
-    <option name="LAST_COMMIT_MESSAGE" value="interfaces compare" />
+    <MESSAGE value="m1" />
+    <option name="LAST_COMMIT_MESSAGE" value="m1" />
   </component>
 </project>
