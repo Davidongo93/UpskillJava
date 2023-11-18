@@ -9,9 +9,19 @@ public class StringOperations {
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Por favor, ingresa una cadena: ");
-        String input = scanner.nextLine();
+        String input = null;
+        try {
+            // Intentar leer la entrada como una cadena
+            input = scanner.nextLine();
+
+            // Imprimir la cadena ingresada
+            System.out.println("Ingresaste: " + input);
+        } catch (Exception e) {
+            // Capturar la excepción en caso de que no sea una cadena
+            System.out.println("Error: Debes ingresar una cadena de caracteres.");
+        }
+
         // verify
-        System.out.println("Ingresaste: " + input);
         System.out.println("A continuacion algunos datos: ");
         //longitud de cadena.
         System.out.println("longitud de cadena: " + input.length());
@@ -36,7 +46,7 @@ public class StringOperations {
 
         char space = ' ';
 
-        int posicion = -1;
+        int posicion = 1;
 
         for (int i = 0; i < input.length(); i++) {
             if (input.charAt(i) == space) {
