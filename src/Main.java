@@ -1,5 +1,8 @@
 import modules.module0.control_structures.Iterators;
 
+import java.util.HashSet;
+import java.util.Set;
+
 import static modules.module0.control_structures.Conditional.*;
 import static modules.module0.control_structures.Iterators.*;
 public class Main {
@@ -22,6 +25,9 @@ public class Main {
         modules.module1.intermediateConcepts.Constants.circleArea();
         // string ops
         modules.module1.intermediateConcepts.StringOperations.infoString();
+        //ejemplos melos para entender
+        Set<String> hashSet = new HashSet<>();
+        modules.module2.EjercicioSet.execAddCountries(hashSet);
     };
 
 };
