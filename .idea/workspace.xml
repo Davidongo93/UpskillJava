@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00ec152e-7298-4d95-b0b4-bde0392914ff" name="Changes" comment="m1">
+    <list default="true" id="00ec152e-7298-4d95-b0b4-bde0392914ff" name="Changes" comment="handle exeption in input.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modules/module1/intermediateConcepts/Interfaces.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/module1/intermediateConcepts/Interfaces.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,16 +51,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "dave",
-    "last_opened_file_path": "D:/upskillJava",
-    "onboarding.tips.debug.path": "D:/upskillJava/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;dave&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/aplicacion-curso&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/upskillJava/src/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -360,7 +360,31 @@
       <option name="project" value="LOCAL" />
       <updated>1699412375547</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="im late">
+      <option name="closed" value="true" />
+      <created>1699501017288</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1699501017288</updated>
+    </task>
+    <task id="LOCAL-00034" summary="im late">
+      <option name="closed" value="true" />
+      <created>1699501421965</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1699501421965</updated>
+    </task>
+    <task id="LOCAL-00035" summary="handle exeption in input.">
+      <option name="closed" value="true" />
+      <created>1700339343654</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1700339343654</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -375,8 +399,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="relocated" />
-    <MESSAGE value="module and package imported switch pending" />
     <MESSAGE value="ternary" />
     <MESSAGE value="ternary module" />
     <MESSAGE value="switch case using Scanner class" />
@@ -400,6 +422,8 @@
     <MESSAGE value="interfaces Continue" />
     <MESSAGE value="interfaces compare" />
     <MESSAGE value="m1" />
-    <option name="LAST_COMMIT_MESSAGE" value="m1" />
+    <MESSAGE value="im late" />
+    <MESSAGE value="handle exeption in input." />
+    <option name="LAST_COMMIT_MESSAGE" value="handle exeption in input." />
   </component>
 </project>
