@@ -2,6 +2,7 @@ import modules.module0.control_structures.Iterators;
 
 import java.util.HashSet;
 import java.util.Set;
+import java.util.TreeSet;
 
 import static modules.module0.control_structures.Conditional.*;
 import static modules.module0.control_structures.Iterators.*;
@@ -25,9 +26,11 @@ public class Main {
         modules.module1.intermediateConcepts.Constants.circleArea();
         // string ops
         modules.module1.intermediateConcepts.StringOperations.infoString();
-        //ejemplos melos para entender
+        //ejemplos melos para entender las listas
         Set<String> hashSet = new HashSet<>();
+        Set<String> orderedSet = new TreeSet<>();
         modules.module2.EjercicioSet.execAddCountries(hashSet);
+        modules.module2.EjercicioSet.showCountries(orderedSet);
     };
 
 };
