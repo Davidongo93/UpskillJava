@@ -3,12 +3,15 @@ import java.util.Scanner;
 
 public class Conditional{
     public static void execIfElse(){
-        int number = 7;
+        System.out.println("Tirate un integer");
+        Scanner scanner = new Scanner(System.in);
+        int number = scanner.nextInt();
         if (number != 2){
             System.out.println("No es el numero dos");
         } else {
             System.out.println("Escribiste un dos, sos un capo");
         };
+       // scanner.close();
     };
     public static void execTernary(){
         int number = 7;
