@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00ec152e-7298-4d95-b0b4-bde0392914ff" name="Changes" comment="ordered list">
+    <list default="true" id="00ec152e-7298-4d95-b0b4-bde0392914ff" name="Changes" comment="m0">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modules/module0/control_structures/Conditional.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/module0/control_structures/Conditional.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,17 +50,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;dave&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/aplicacion-curso&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;D:/upskillJava/src/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "dave",
+    "last_opened_file_path": "D:/upskillJava",
+    "onboarding.tips.debug.path": "D:/upskillJava/src/Main.java"
   }
-}</component>
-  <component name="RunManager" selected="Application.Main">
+}]]></component>
+  <component name="RunManager" selected="Application.modules.module1.classes_and_objects.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="UpskillJava" />
@@ -91,8 +89,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
         <item itemvalue="Application.modules.module1.classes_and_objects.Main" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -401,7 +399,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700356551347</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="m0">
+      <option name="closed" value="true" />
+      <created>1700709438424</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1700709438424</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -416,7 +422,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="switch case using Scanner class" />
     <MESSAGE value="iterators class" />
     <MESSAGE value="ForEach example." />
     <MESSAGE value="modulo cero terminado" />
@@ -441,6 +446,7 @@
     <MESSAGE value="handle exeption in input." />
     <MESSAGE value="set" />
     <MESSAGE value="ordered list" />
-    <option name="LAST_COMMIT_MESSAGE" value="ordered list" />
+    <MESSAGE value="m0" />
+    <option name="LAST_COMMIT_MESSAGE" value="m0" />
   </component>
 </project>

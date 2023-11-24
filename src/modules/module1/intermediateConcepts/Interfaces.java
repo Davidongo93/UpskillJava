@@ -3,7 +3,7 @@ package modules.module1.intermediateConcepts;
 public class Interfaces {
 
 
-    public static abstract class product implements Comparable<product> {
+    public  class product implements Comparable<product> {
        private String name;
         private Double price;
         private String code;
