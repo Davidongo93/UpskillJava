@@ -11,8 +11,9 @@ public class RunModule0 {
         do {
             try {
                 System.out.println(separator);
-                System.out.println("1. Execute Conditionals");
-                System.out.println("2. Execute Iterators");
+                System.out.println("1. Execute Data Types Example");
+                System.out.println("2. Execute Conditionals");
+                System.out.println("3. Execute Iterators");
                 System.out.println("0. Exit");
 
                 System.out.print("Enter your choice: ");
@@ -21,10 +22,15 @@ public class RunModule0 {
                     switch (choice) {
                         case 1:
                             System.out.println(separator);
+                            System.out.println("Executing Data Types Example...");
+                            DataTypesExample.main(scanner);
+                            break;
+                        case 2:
+                            System.out.println(separator);
                             System.out.println("Executing Conditionals...");
                             Conditional.executeMenu(scanner);
                             break;
-                        case 2:
+                        case 3:
                             System.out.println(separator);
                             System.out.println("Executing Iterators...");
                             Iterators.executeMenu(scanner);

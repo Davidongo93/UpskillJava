@@ -4,19 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00ec152e-7298-4d95-b0b4-bde0392914ff" name="Changes" comment="Iterators with examples">
-      <change afterPath="$PROJECT_DIR$/src/modules/module1/intermediateConcepts/Filtrable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+    <list default="true" id="00ec152e-7298-4d95-b0b4-bde0392914ff" name="Changes" comment="ignore workspace.xml">
+      <change afterPath="$PROJECT_DIR$/src/modules/module0/DataTypesExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modules/module0/Conditional.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/module0/Conditional.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/modules/module0/RunModule0.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/module0/RunModule0.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modules/module1/intermediateConcepts/Interfaces.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/module1/intermediateConcepts/Product.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager" show_ignored="true" />
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -480,7 +478,47 @@
       <option name="project" value="LOCAL" />
       <updated>1703039757783</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="Conditionals with examples">
+      <option name="closed" value="true" />
+      <created>1703040038790</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1703040038790</updated>
+    </task>
+    <task id="LOCAL-00045" summary="menu for module 0">
+      <option name="closed" value="true" />
+      <created>1703040053088</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1703040053088</updated>
+    </task>
+    <task id="LOCAL-00046" summary="unstagged changes">
+      <option name="closed" value="true" />
+      <created>1703040103452</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1703040103452</updated>
+    </task>
+    <task id="LOCAL-00047" summary="ignore workspace.xml">
+      <option name="closed" value="true" />
+      <created>1703040178759</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1703040178759</updated>
+    </task>
+    <task id="LOCAL-00048" summary="ignore workspace.xml">
+      <option name="closed" value="true" />
+      <created>1703040251302</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1703040251302</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -495,10 +533,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="dont forget que commit comment" />
-    <MESSAGE value="inheritance example" />
-    <MESSAGE value="Abstraction and polymorphism." />
-    <MESSAGE value="delete module" />
     <MESSAGE value="polimorfismo y actualizacion de diagramas" />
     <MESSAGE value="chess pieces" />
     <MESSAGE value="partially finished m1c1" />
@@ -520,6 +554,10 @@
     <MESSAGE value="conditionals in menu layer" />
     <MESSAGE value="Scanner solved by args" />
     <MESSAGE value="Iterators with examples" />
-    <option name="LAST_COMMIT_MESSAGE" value="Iterators with examples" />
+    <MESSAGE value="Conditionals with examples" />
+    <MESSAGE value="menu for module 0" />
+    <MESSAGE value="unstagged changes" />
+    <MESSAGE value="ignore workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="ignore workspace.xml" />
   </component>
 </project>
