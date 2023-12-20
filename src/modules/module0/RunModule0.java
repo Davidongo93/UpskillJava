@@ -27,7 +27,7 @@ public class RunModule0 {
                         case 2:
                             System.out.println(separator);
                             System.out.println("Executing Iterators...");
-                            // Iterators.execute();
+                            Iterators.executeMenu(scanner);
                             break;
                         case 0:
                             System.out.println(separator);
