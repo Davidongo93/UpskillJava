@@ -27,8 +27,8 @@ public class MenuLayer {
 
             System.out.println("Please select an option:");
             // modules options
-            System.out.println("1. Module 0");
-            System.out.println("2. Module 1");
+            System.out.println("1. Module 0 -- DataTypes -- Conditionals -- Iterators --");
+            System.out.println("2. Module 1 -- OOP -- UML -- Objects, Classes and Interfaces --");
             System.out.println("3. Module 2");
             System.out.println("4. Module 3");
             System.out.println("5. Module 4");

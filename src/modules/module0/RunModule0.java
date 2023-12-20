@@ -37,7 +37,7 @@ public class RunModule0 {
                             break;
                         case 0:
                             System.out.println(separator);
-                            System.out.println("Exiting the menu. Goodbye!");
+                            System.out.println("Returning to main menu...");
                             break;
                         default:
                             System.out.println(separator);

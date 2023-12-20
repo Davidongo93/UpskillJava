@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00ec152e-7298-4d95-b0b4-bde0392914ff" name="Changes" comment="ignore workspace.xml">
-      <change afterPath="$PROJECT_DIR$/src/modules/module0/DataTypesExample.java" afterDir="false" />
+    <list default="true" id="00ec152e-7298-4d95-b0b4-bde0392914ff" name="Changes" comment="data Types examples (non interactive)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/modules/module0/RunModule0.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/module0/RunModule0.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/presentation/MenuLayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/presentation/MenuLayer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -518,7 +518,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703040251302</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="data Types examples (non interactive)">
+      <option name="closed" value="true" />
+      <created>1703043194281</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1703043194281</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -533,7 +541,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="polimorfismo y actualizacion de diagramas" />
     <MESSAGE value="chess pieces" />
     <MESSAGE value="partially finished m1c1" />
     <MESSAGE value="first half m1" />
@@ -558,6 +565,7 @@
     <MESSAGE value="menu for module 0" />
     <MESSAGE value="unstagged changes" />
     <MESSAGE value="ignore workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="ignore workspace.xml" />
+    <MESSAGE value="data Types examples (non interactive)" />
+    <option name="LAST_COMMIT_MESSAGE" value="data Types examples (non interactive)" />
   </component>
 </project>
