@@ -4,17 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00ec152e-7298-4d95-b0b4-bde0392914ff" name="Changes" comment="m0">
+    <list default="true" id="00ec152e-7298-4d95-b0b4-bde0392914ff" name="Changes" comment="data Types examples (non interactive)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/module0/RunModule0.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/module0/RunModule0.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/presentation/MenuLayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/presentation/MenuLayer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager" show_ignored="true" />
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -50,23 +54,42 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "dave",
-    "last_opened_file_path": "D:/upskillJava",
-    "onboarding.tips.debug.path": "D:/upskillJava/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MenuLayer.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;dave&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/moneywiseAPI&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/upskillJava/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.modules.module1.classes_and_objects.Main">
+}</component>
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+      <option name="MAIN_CLASS_NAME" value="Main.Main" />
       <module name="UpskillJava" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MenuLayer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="presentation.MenuLayer" />
+      <module name="UpskillJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="presentation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,10 +112,18 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.modules.module1.classes_and_objects.Main" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.MenuLayer" />
+        <item itemvalue="Application.modules.module1.classes_and_objects.Main" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-corretto-17.0.9-249ae16d76d6-98297cd8" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -407,7 +438,95 @@
       <option name="project" value="LOCAL" />
       <updated>1700709438424</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="m1c2pending hw and pi">
+      <option name="closed" value="true" />
+      <created>1700786694165</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1700786694165</updated>
+    </task>
+    <task id="LOCAL-00040" summary="refactor to create a menu layer">
+      <option name="closed" value="true" />
+      <created>1703015615505</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1703015615505</updated>
+    </task>
+    <task id="LOCAL-00041" summary="conditionals in menu layer">
+      <option name="closed" value="true" />
+      <created>1703019366699</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1703019366699</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Scanner solved by args">
+      <option name="closed" value="true" />
+      <created>1703023872031</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1703023872031</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Iterators with examples">
+      <option name="closed" value="true" />
+      <created>1703039757783</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1703039757783</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Conditionals with examples">
+      <option name="closed" value="true" />
+      <created>1703040038790</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1703040038790</updated>
+    </task>
+    <task id="LOCAL-00045" summary="menu for module 0">
+      <option name="closed" value="true" />
+      <created>1703040053088</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1703040053088</updated>
+    </task>
+    <task id="LOCAL-00046" summary="unstagged changes">
+      <option name="closed" value="true" />
+      <created>1703040103452</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1703040103452</updated>
+    </task>
+    <task id="LOCAL-00047" summary="ignore workspace.xml">
+      <option name="closed" value="true" />
+      <created>1703040178759</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1703040178759</updated>
+    </task>
+    <task id="LOCAL-00048" summary="ignore workspace.xml">
+      <option name="closed" value="true" />
+      <created>1703040251302</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1703040251302</updated>
+    </task>
+    <task id="LOCAL-00049" summary="data Types examples (non interactive)">
+      <option name="closed" value="true" />
+      <created>1703043194281</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1703043194281</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -422,16 +541,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="iterators class" />
-    <MESSAGE value="ForEach example." />
-    <MESSAGE value="modulo cero terminado" />
-    <MESSAGE value="Created module 1" />
-    <MESSAGE value="Classes and objects." />
-    <MESSAGE value="dont forget que commit comment" />
-    <MESSAGE value="inheritance example" />
-    <MESSAGE value="Abstraction and polymorphism." />
-    <MESSAGE value="delete module" />
-    <MESSAGE value="polimorfismo y actualizacion de diagramas" />
     <MESSAGE value="chess pieces" />
     <MESSAGE value="partially finished m1c1" />
     <MESSAGE value="first half m1" />
@@ -447,6 +556,16 @@
     <MESSAGE value="set" />
     <MESSAGE value="ordered list" />
     <MESSAGE value="m0" />
-    <option name="LAST_COMMIT_MESSAGE" value="m0" />
+    <MESSAGE value="m1c2pending hw and pi" />
+    <MESSAGE value="refactor to create a menu layer" />
+    <MESSAGE value="conditionals in menu layer" />
+    <MESSAGE value="Scanner solved by args" />
+    <MESSAGE value="Iterators with examples" />
+    <MESSAGE value="Conditionals with examples" />
+    <MESSAGE value="menu for module 0" />
+    <MESSAGE value="unstagged changes" />
+    <MESSAGE value="ignore workspace.xml" />
+    <MESSAGE value="data Types examples (non interactive)" />
+    <option name="LAST_COMMIT_MESSAGE" value="data Types examples (non interactive)" />
   </component>
 </project>

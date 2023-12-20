@@ -1,12 +1,9 @@
 package modules.module1.intermediateConcepts;
 
-public class Interfaces {
-
-
-    public  class product implements Comparable<product> {
+    public class Product implements Comparable<Product> {
        private String name;
         private Double price;
-        private String code;
+        private int code;
 
         public String getName() {
             return name;
@@ -24,19 +21,19 @@ public class Interfaces {
             this.price = price;
         }
 
-        public String getCode() {
+        public int getCode() {
             return code;
         }
 
-        public void setCode(String code) {
+        public void setCode(int code) {
             this.code = code;
         }
 
-        public product(String name) {
+        public Product(String name) {
             this.name = name;
         }
 
-        public product(String name, Double price, String code) {
+        public Product(String name, Double price, int code) {
             this.name = name;
             this.price = price;
             this.code = code;
@@ -44,12 +41,18 @@ public class Interfaces {
 
 
         @Override
-        public int compareTo(product otherProduct) {
+        public int compareTo(Product otherProduct) {
             // decir si es mayor, menor o igual e indicar la diferencia entre el producto y el que se quiere comparar
-            Double diff = this.getPrice() + otherProduct.getPrice();
             return Double.compare(this.getPrice(), otherProduct.getPrice());
+        }
+
+        @Override
+        public String toString() {
+            return "Product{" +
+                    "name='" + name + '\'' +
+                    ", price=" + price +
+                    ", code=" + code +
+                    '}';
         }
     }
 
-
-}

@@ -9,7 +9,7 @@ public class Conditional {
     public static void executeMenu(Scanner scanner) {
         int choice = -1;
 
-        System.out.println("Welcome to Conditionals Module Menu");
+        System.out.println("Conditionals Module Menu");
         do {
             try {
                 System.out.println(separator);
@@ -47,15 +47,17 @@ public class Conditional {
                 }
             } catch (java.util.InputMismatchException e) {
                 System.out.println("Invalid input. Please enter a valid number.");
-                scanner.nextLine(); // Consume the invalid input
-                choice = -1; // Set choice to an invalid value to continue the loop
+                scanner.nextLine();
+                choice = -1;
             }
 
         } while (choice != 0);
     }
 
     public static void executeIfElse(Scanner scanner) {
-        System.out.println("This cutting edge technology will tell you if you write a number two '2'");
+        System.out.println("In this If-Else example, you'll learn how to use a basic conditional statement.");
+        System.out.println("The program checks if the entered number is equal to 2 and provides feedback accordingly.");
+
         int number = -1;
 
         do {
@@ -64,34 +66,36 @@ public class Conditional {
                 number = scanner.nextInt();
 
                 if (number != 2) {
-                    System.out.println("It's not the number two");
+                    System.out.println("It's not the number two.");
                 } else {
-                    System.out.println("You wrote two, you're awesome");
+                    System.out.println("You wrote two. You're awesome!");
                 }
             } catch (java.util.InputMismatchException e) {
                 System.out.println("Invalid input. Please enter a valid number.");
-                scanner.nextLine(); // Consume the invalid input
-                number = -1; // Set number to an invalid value to continue the loop
+                scanner.nextLine();
+                number = -1;
             }
 
         } while (number == -1);
-
     }
 
     public static void executeTernary(Scanner scanner) {
-        System.out.println("Enter an integer to check if it's even or odd:");
+        System.out.println("In this Ternary example, you'll learn how to use a concise conditional expression.");
+        System.out.println("The program checks if the entered number is even or odd and provides feedback.");
+
         int number;
         do {
             try {
-                System.out.print("Enter your choice: ");
+                System.out.print("Enter an integer to check if it's even or odd: ");
                 number = scanner.nextInt();
+
                 if (number < 0) {
                     System.out.println("Please enter a non-negative integer.");
                 }
             } catch (java.util.InputMismatchException e) {
                 System.out.println("Invalid input. Please enter a valid integer.");
-                scanner.nextLine(); // Consume the invalid input
-                number = -1; // Set number to an invalid value to continue the loop
+                scanner.nextLine();
+                number = -1;
             }
         } while (number < 0);
 
@@ -102,6 +106,9 @@ public class Conditional {
     }
 
     public static void executeSwitchCase(Scanner scanner) {
+        System.out.println("In this Switch-Case example, you'll learn how to use a switch statement to handle multiple cases.");
+        System.out.println("The program converts the entered number into words (0-9).");
+
         int number = -1;
 
         do {
@@ -149,11 +156,10 @@ public class Conditional {
                 System.out.println("The number entered in words is: " + numberInWords);
             } catch (java.util.InputMismatchException e) {
                 System.out.println("Invalid input. Please enter a valid number.");
-                scanner.nextLine(); // Consume the invalid input
-                number = -1; // Set number to an invalid value to continue the loop
+                scanner.nextLine();
+                number = -1;
             }
 
         } while (number == -1);
-
     }
 }
