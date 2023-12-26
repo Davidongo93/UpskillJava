@@ -1,6 +1,7 @@
 package presentation;
 
 import modules.module0.RunModule0;
+import modules.module1.RunModule1;
 
 import java.util.Scanner;
 
@@ -46,14 +47,13 @@ public class MenuLayer {
                         break;
                     case 1:
                         System.out.println(separator);
-                        // Call function for Module 0
                         System.out.println("You selected Module 0");
                         RunModule0.main(scanner);
                         break;
                     case 2:
                         System.out.println(separator);
-                        // Call function for Module 1
                         System.out.println("You selected Module 1");
+                        RunModule1.main(scanner);
                         break;
                     case 3:
                         System.out.println(separator);
