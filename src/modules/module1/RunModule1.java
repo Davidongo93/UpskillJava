@@ -1,5 +1,7 @@
 package modules.module1;
 
+import modules.module1.classes_and_objects.Main;
+
 import java.util.Scanner;
 
 public class RunModule1 {
@@ -23,7 +25,7 @@ public class RunModule1 {
                         case 1:
                             System.out.println(separator);
                             System.out.println("Executing Classes and Objects Example...");
-                           // ClassesAndObjectsExample.main(scanner);
+                            Main.main();
                             break;
                         case 2:
                             System.out.println(separator);
@@ -33,7 +35,7 @@ public class RunModule1 {
                         case 3:
                             System.out.println(separator);
                             System.out.println("Executing Homework...");
-                          //  Homework.executeMenu(scanner);
+
                             break;
                         case 0:
                             System.out.println(separator);

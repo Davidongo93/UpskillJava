@@ -16,8 +16,6 @@ public class PickUp extends Car{
         System.out.println("a climber has borned");
     }
 
-    public PickUp() {
-    }
 
     public int getSeats() {
         return seats;
