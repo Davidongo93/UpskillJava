@@ -16,7 +16,7 @@ public class RunModule1 {
                 System.out.println("1. Execute Classes and Objects Example");
                 System.out.println("2. Execute Intermediate Concepts");
                 System.out.println("3. Execute Homework");
-                System.out.println("0. Exit");
+                System.out.println("0. Back to main menu");
 
                 System.out.print("Enter your choice: ");
                 if (scanner.hasNextInt()) {
