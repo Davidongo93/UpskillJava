@@ -14,7 +14,7 @@ public class RunModule0 {
                 System.out.println("1. Execute Data Types Example");
                 System.out.println("2. Execute Conditionals");
                 System.out.println("3. Execute Iterators");
-                System.out.println("0. Exit");
+                System.out.println("0. Back to main menu");
 
                 System.out.print("Enter your choice: ");
                 if (scanner.hasNextInt()) {
